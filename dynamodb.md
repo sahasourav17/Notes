@@ -44,9 +44,11 @@ dynamodb_local_2021-04-27
     └── THIRD-PARTY-LICENSES.txt
 ```
 
-Now go to `dynamodb_local_2021-04-27` directory and run the following command in your `terminal`:
+Now go to `dynamodb_local_2021-04-27` directory.
 
 ### Step 4: Running DynamoDB
+
+Open the `terminal` in that directory and run the following command:
 
 ```bash
 java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
