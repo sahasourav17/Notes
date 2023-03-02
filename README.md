@@ -6,3 +6,4 @@ This repository contains notes on the following topics:
 - [Node.js](./NodeJS.md)
 - [Express js](./ExpressJS.md)
 - [DynamoDB](./dynamodb.md)
+- [TypeScript](./TypeScript.md)
