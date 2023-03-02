@@ -12,6 +12,14 @@ counter = "Hello World";
 This will throw an error like this:
 `Type 'string' is not assignable to type 'number'.`
 
+## Installation
+
+```bash
+npm install typescript --save-dev
+npx tsc --init
+npx tsc
+```
+
 ## Contents:
 
 <details open>
