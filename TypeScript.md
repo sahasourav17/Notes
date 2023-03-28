@@ -78,3 +78,43 @@ As TypeScript is a superset of JavaScript, it inherits all the built in data of 
   <li> Decorators </li>
 </ul>
 </details>
+
+## Primitive types
+
+### Boolean
+
+It's a basic data type and it only have true/false value
+
+```ts
+let isOpen: boolean = false;
+```
+
+### Number
+
+Like JavaScript, TypeScript stores every number as floating point value or bigintegers.
+
+```ts
+let decimal: number = 6;
+let hex: number = 0xf00c;
+let binary: number = 0b1001;
+let octal: number = 0o654;
+let big: bigint = 100n;
+```
+
+### String
+
+String data type is used to represent text value. It only works with textual data.
+
+```ts
+let firstName: string = "Sourav";
+firstName = "Bran";
+```
+
+### Null and Undefined
+
+In TypeScript, null and undefined both has type `null` and `undefined` respectively.
+
+```ts
+let isDigit: boolean = null;
+let name: string = null;
+```
