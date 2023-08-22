@@ -3,6 +3,7 @@
 This repository contains notes on the following topics:
 
 - [JavaScript Basic](./JS_Basics.md)
+- [JavaScript Advanced Concepts](./JS_Advanced_Concepts.md)
 - [Node.js](./NodeJS.md)
 - [Express js](./ExpressJS.md)
 - [DynamoDB](./dynamodb.md)
