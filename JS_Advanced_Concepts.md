@@ -4,7 +4,7 @@
 
 # Debounce
 
-Suppose, we have a button on our webpage let's say a user clicked add to cart button of one item multiple times in a short period of time, the expected behavior should be the item will be added to the cart for the first time but not added how many times the button is clicked. Here, comes the concept of debounce. Which ensure that if a user clicked on a button rapidly, it will work only for once.
+Suppose, we have a button on our webpage let's say a user accidentally clicked `add to cart button` of one item multiple times, the expected behavior should be the item will be added to the cart for the first time but not added how many times the button is clicked. Here, comes the concept of debounce. Which ensure that if a user clicked on a button rapidly, it will work only for once.
 
 Let's look another use case of debounce, If we want to search something on our ecommerce website, it will make a network request for every typed character which will later ended up with large amount of request to the server. In that case, we can use Debounce.
 
