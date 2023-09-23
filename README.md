@@ -9,3 +9,4 @@ This repository contains notes on the following topics:
 - [DynamoDB](./dynamodb.md)
 - [TypeScript](./TypeScript.md)
 - [Github](./github.md)
+- [Next](./Next.md)
